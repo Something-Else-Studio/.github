@@ -1,0 +1,2 @@
+# .github
+Something Else Studio
